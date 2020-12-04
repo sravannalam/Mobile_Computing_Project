@@ -1,0 +1,20 @@
+[
+  {
+    "movieGenre": "Action"
+  },
+  {
+    "movieGenre": "Drama"
+  },
+  {
+    "movieGenre": "Comedy"
+  },
+  {
+    "movieGenre": "Horror"
+  },
+  {
+    "movieGenre": "Romance"
+  },
+  {
+    "movieGenre": "Crime"
+  }
+]

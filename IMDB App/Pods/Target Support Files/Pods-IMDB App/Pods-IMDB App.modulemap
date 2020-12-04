@@ -1,0 +1,6 @@
+framework module Pods_IMDB_App {
+  umbrella header "Pods-IMDB App-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "title": "angel has fallen",
+    "movieyear": "2019",
+    "poster": "angel_has_fallen.jpg",
+    "imdblink": "https://www.imdb.com/title/tt6189022/?ref_=ttls_li_i",
+    "moviegenre": "action"
+  },
+  {
+    "title": "Hellboy",
+    "movieyear": "2019",
+    "poster": "Hellboy.jpg",
+    "imdblink": "https://www.imdb.com/title/tt2274648/?ref_=ttls_li_i",
+    "moviegenre": "action"
+  },
+  {
+    "title": "terminator dark fate",
+    "movieyear": "2019",
+    "poster": "terminator-dark-fate.jpg",
+    "imdblink": "https://www.imdb.com/title/tt6450804/?ref_=ttls_li_tt",
+    "moviegenre": "action"
+  },
+  {
+    "title": "uri the surgical strike",
+    "movieyear": "2019",
+    "poster": "uri the surgical strike.jpg",
+    "imdblink": "https://www.imdb.com/title/tt8291224/?ref_=ttls_li_i",
+    "moviegenre": "action"
+  },
+  {
+    "title": "tenet",
+    "movieyear": "2020",
+    "poster": "tenet.jpg",
+    "imdblink": "https://imdb.com/title/tt6723592/?ref_=adv_li_tt",
+    "moviegenre": "action"
+  },
+  {
+    "title": "Jabariya Jodi",
+    "movieyear": "2019",
+    "poster": "Jabariya_Jodi.jpg",
+    "imdblink": "https://www.imdb.com/title/tt8785426/?ref_=ttls_li_tt",
+    "moviegenre": "drama"
+  },
+  {
+    "title": "Sandeep Aur Pinky Faraar",
+    "movieyear": "2020",
+    "poster": "Sandeep Aur Pinky Faraar.jpg",
+    "imdblink": "https://www.imdb.com/title/tt7094488/?ref_=ttls_li_tt",
+    "moviegenre": "drama"
+  },
+  {
+    "title": "Kalank",
+    "movieyear": "2019",
+    "poster": "Kalank.jpg",
+    "imdblink": "https://www.imdb.com/title/tt6988116/?ref_=ttls_li_tt",
+    "moviegenre": "drama"
+  },
+  {
+    "title": "Gully Boy",
+    "movieyear": "2019",
+    "poster": "Gully Boy.jpg",
+    "imdblink": "https://www.imdb.com/title/tt2395469/?ref_=ttls_li_tt",
+    "moviegenre": "drama"
+  },
+  {
+    "title": "Panipat",
+    "movieyear": "2019",
+    "poster": "Panipat 2019.jpg",
+    "imdblink": "https://www.imdb.com/title/tt8176040/?ref_=ttls_li_tt",
+    "moviegenre": "drama"
+  },
+  {
+    "title": "Once Upon a Time... In Hollywood",
+    "movieyear": "2019",
+    "poster": "Once_Upon_a_Time_in_Hollywood.jpg",
+    "imdblink": "https://www.imdb.com/title/tt7131622/?ref_=adv_li_tt",
+    "moviegenre": "comedy"
+  },
+  {
+    "title": "The Gentlemen",
+    "movieyear": "2019",
+    "poster": "The_Gentlemen.jpg",
+    "imdblink": "https://www.imdb.com/title/tt8367814/?ref_=adv_li_tt",
+    "moviegenre": "comedy"
+  },
+  {
+    "title": "Holidate",
+    "movieyear": "2020",
+    "poster": "Holidate.jpg",
+    "imdblink": "https://www.imdb.com/title/tt9866072/?ref_=adv_li_tt",
+    "moviegenre": "comedy"
+  },
+  {
+    "title": "Superintelligence",
+    "movieyear": "2020",
+    "poster": "Superintelligence.jpg",
+    "imdblink": "https://www.imdb.com/title/tt7178640/?ref_=adv_li_tt",
+    "moviegenre": "comedy"
+  },
+  {
+    "title": "Laxmii",
+    "movieyear": "2020",
+    "poster": "Laxmii.jpg",
+    "imdblink": "https://www.imdb.com/title/tt10350922/?ref_=adv_li_tt",
+    "moviegenre": "comedy"
+  },
+  {
+    "title": "Underwater",
+    "movieyear": "2020",
+    "poster": "Underwater.jpg",
+    "imdblink": "https://www.imdb.com/title/tt5774060/?ref_=ttls_li_tt",
+    "moviegenre": "horror"
+  },
+  {
+    "title": "Grudge",
+    "movieyear": "2020",
+    "poster": "The_Grudge.jpg",
+    "imdblink": "https://www.imdb.com/title/tt3612126/?ref_=ttls_li_tt",
+    "moviegenre": "horror"
+  },
+  {
+    "title": "gost stories",
+    "movieyear": "2020",
+    "poster": "Ghost_Stories.jpg",
+    "imdblink": "https://www.imdb.com/title/tt10230404/?ref_=ttls_li_tt",
+    "moviegenre": "horror"
+  },
+  {
+    "title": "Brahms: The Boy II",
+    "movieyear": "2020",
+    "poster": "Brahms_The_Boy.jpg",
+    "imdblink": "https://www.imdb.com/title/tt9173418/?ref_=ttls_li_tt",
+    "moviegenre": "horror"
+  },
+  {
+    "title": "Corona Zombies",
+    "movieyear": "2020",
+    "poster": "Corona_Zombies.jpg",
+    "imdblink": "https://www.imdb.com/title/tt12098392/?ref_=ttls_li_tt",
+    "moviegenre": "horror"
+  },
+  {
+    "title": "rebecca",
+    "movieyear": "2020",
+    "poster": "Rebecca.jpg",
+    "imdblink": "https://www.imdb.com/title/tt2235695/?ref_=adv_li_tt",
+    "moviegenre": "romance"
+  },
+  {
+    "title": "After We Collided",
+    "movieyear": "2020",
+    "poster": "After We Collided.jpg",
+    "imdblink": "https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt",
+    "moviegenre": "romance"
+  },
+  {
+    "title": "Emma",
+    "movieyear": "2020",
+    "poster": "Emma.jpg",
+    "imdblink": "https://www.imdb.com/title/tt9214832/?ref_=adv_li_tt",
+    "moviegenre": "romance"
+  },
+  {
+    "title": "365 Days",
+    "movieyear": "2019",
+    "poster": "365 Days.jpg",
+    "imdblink": "https://www.imdb.com/title/tt10886166/?ref_=adv_li_tt",
+    "moviegenre": "romance"
+  },
+  {
+    "title": "Chhalaang",
+    "movieyear": "2019",
+    "poster": "Chhalaang.jpg",
+    "imdblink": "https://www.imdb.com/title/tt8983164/?ref_=adv_li_tt",
+    "moviegenre": "romance"
+  },
+  {
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "movieyear": "2019",
+    "poster": "John_Wick_Chapter_3_Parabellum.jpg",
+    "imdblink": "https://www.imdb.com/title/tt6146586/?ref_=ttls_li_tt",
+    "moviegenre": "crime"
+  },
+  {
+    "title": "Joker",
+    "movieyear": "2019",
+    "poster": "Joker.jpg",
+    "imdblink": "https://www.imdb.com/title/tt7286456/?ref_=ttls_li_tt",
+    "moviegenre": "crime"
+  },
+  {
+    "title": "Rogue City",
+    "movieyear": "2020",
+    "poster": "Rouge city.jpg",
+    "imdblink": "https://www.imdb.com/title/tt10127684/?ref_=adv_li_tt",
+    "moviegenre": "crime"
+  },
+  {
+    "title": "Honest Thief",
+    "movieyear": "2020",
+    "poster": "Honest Thief.jpg",
+    "imdblink": "https://www.imdb.com/title/tt1838556/?ref_=adv_li_tt",
+    "moviegenre": "crime"
+  },
+  {
+    "title": "Let Him Go",
+    "movieyear": "2020",
+    "poster": "Let Him Go.jpg",
+    "imdblink": "https://www.imdb.com/title/tt9340860/?ref_=adv_li_tt",
+    "moviegenre": "crime"
+  }
+]

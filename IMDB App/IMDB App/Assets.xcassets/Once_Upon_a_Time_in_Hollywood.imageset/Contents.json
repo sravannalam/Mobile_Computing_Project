@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Once_Upon_a_Time_in_Hollywood.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Once_Upon_a_Time_in_Hollywood-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Once_Upon_a_Time_in_Hollywood-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

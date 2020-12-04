@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>link</key>
+		<string>https</string>
+		<key>genre</key>
+		<string>superhero</string>
+		<key>year</key>
+		<string>2008</string>
+		<key>imageName</key>
+		<string>pic.jpeg</string>
+		<key>name</key>
+		<string>Batman</string>
+	</dict>
+	<dict>
+		<key>link</key>
+		<string>https</string>
+		<key>genre</key>
+		<string>superhero</string>
+		<key>year</key>
+		<string>2008</string>
+		<key>imageName</key>
+		<string>pic.jpeg</string>
+		<key>name</key>
+		<string>Batman</string>
+	</dict>
+</array>
+</plist>
