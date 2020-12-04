@@ -1,5 +1,5 @@
 # Mobile_Computing_Project<br/>
-=================================
+======================================================<br/>
 Before running the Project we need to install the Cocapods. Please follow below steps
 
 1. Open the terminal and install Cocapods using below command<br/>
